@@ -1,2 +1,2 @@
 # test-repository
-learning git change
+learning git merge
