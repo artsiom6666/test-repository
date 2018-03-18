@@ -1,2 +1,3 @@
 # test-repository
-laerning git mergh
+laerning git mergh#
+new line
